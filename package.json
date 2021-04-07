@@ -1,0 +1,15 @@
+{
+  "name": "melon",
+  "version": "0.0.1",
+  "description": "dogehouse bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dogehouse.js": "^2.0.2",
+    "dotenv": "^8.2.0"
+  }
+}
