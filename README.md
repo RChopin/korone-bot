@@ -1,2 +1,2 @@
 # korone-bot
-DogeHous Bot
+DogeHouse Bot
