@@ -1,10 +1,10 @@
-<p  align="center"><img  width=12.5%  src="https://github.com/RChopin/korone-bot/blob/master/media/korone0.png"></p>
+<p  align="center"><img  width=25%  src="https://github.com/RChopin/korone-bot/blob/master/media/korone0.png"></p>
 
 <h1  align="center">Korone</h1>
 
 <p align="center"><b>DogeHouse Bot written in JS</b></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Github Stars](https://img.shields.io/github/stars/RChopin/korone-bot)
 [![dogehouse.js](https://img.shields.io/badge/dogehouse.js-yes-blue)](https://github.com/dogegarden/dogehouse.js)
 
