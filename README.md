@@ -1,4 +1,4 @@
-<p  align="center"><img  width=12.5%  src="https://github.com/RChopin/korone-bot/blob/master/media/korone0.png"></p>
+<p  align="center"><img  width=25%  src="https://github.com/RChopin/korone-bot/blob/master/media/korone0.png"></p>
 
 <h1  align="center">Korone</h1>
 
