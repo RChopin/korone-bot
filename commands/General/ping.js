@@ -1,7 +1,7 @@
 module.exports = {
   name: "ping",
   description: "Ping!",
-  execute(message, args) {
+  execute: (message, args) => {
     const msgObj = [
       `ping: ${Date.now() - Date.parse(message._rawData.sentAt)}ms`,
     ];
