@@ -4,9 +4,12 @@
 
 <p align="center"><b>DogeHouse Bot written in JS</b></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Github Stars](https://img.shields.io/github/stars/RChopin/korone-bot)
-[![dogehouse.js](https://img.shields.io/badge/dogehouse.js-yes-blue)](https://github.com/dogegarden/dogehouse.js)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/RChopin/korone-bot">
+  <a href="https://discord.gg/Nu6KVjJYj6">
+    <img src="https://img.shields.io/badge/dogehouse.js-yes-blue" alt="discord - users online" />
+  </a>
+</p>
 
 ## Basic Overview
 
@@ -26,7 +29,7 @@ Install dependencies
 npm install
 ```
 
-Create `.env` file and put your `DOGEHOUSE_TOKEN`, `DOGEHOUSE_REFRESH_TOKEN` and `ROOM_ID` there
+Edit `example.env` to `.env` and fill with your tokens etc.
 
 Run the bot
 
