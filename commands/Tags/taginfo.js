@@ -2,9 +2,8 @@ module.exports = {
   name: "taginfo",
   description: "Show tag info",
   execute: async (message, args, Tags) => {
-    const tagName = commandArgs;
+    const tagName = args;
 
-    // equivalent to: SELECT * FROM tags WHERE name = 'tagName' LIMIT 1;
     const tag = await Tags.findOne({ where: { name: tagName } });
     if (tag) {
       return message.reply(
