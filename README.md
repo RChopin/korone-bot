@@ -31,7 +31,7 @@ npm install
 
 Edit `example.env` to `.env` and fill with your tokens etc.
 
-Run ` node dbInit.js`
+Run ` node dbInit.js` to initialize the currency database.
 
 Run the bot
 
