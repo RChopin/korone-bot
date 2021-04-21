@@ -8,6 +8,7 @@ const Collection = require("@discordjs/collection");
 const currency = new Collection();
 
 const app = new Client();
+// app._sendTelemetry = true;
 
 const token = process.env.DOGEHOUSE_TOKEN;
 const refreshToken = process.env.DOGEHOUSE_REFRESH_TOKEN;
