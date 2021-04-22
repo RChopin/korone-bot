@@ -1,6 +1,7 @@
 module.exports = {
   name: "emoji",
-  description: "Emoji",
+  description: "Sends random emoji",
+  usage: "k!emoji",
   execute: (message, args) => {
     const emojis = [":CoolHouse:", ":EZ:", ":HACKERMANS:"];
     const msgObj = [`${emojis[Math.floor(Math.random() * 3)]}`];
